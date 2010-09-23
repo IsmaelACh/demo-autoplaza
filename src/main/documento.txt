@@ -1,10 +1,15 @@
 
-Este es un ejemplo de documento.
+//Este es un ejemplo de documento.
 
-este es la seguinda linea
+//este es la seguinda linea
 
-cuarta linea
+//cuarta linea
 
-quita linea
+//quita linea
+
+//sexta línea. etcte etcte
+
+//séptima línea de prueba......
+
 
 Esta linea la escribio Ismael
